@@ -4,7 +4,7 @@
 
 ### Task 1
 
-1. **_processArray( )_ function**: This uses the _map()_ function to dynamically change the values of the array depending on the condtion provided(being even or odd).
+1. **_processArray( )_ function**: This uses the _map()_ function to dynamically change the values of the array depending on the condtion provided (being even or odd).
 
 ### Task 2
 
