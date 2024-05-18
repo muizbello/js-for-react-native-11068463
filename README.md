@@ -13,3 +13,7 @@
 ### Task 3
 
 3. **_createUserProfile( )_**: Functionality is achived by importing _processArray( )_ and _formatArrayString( )_ from arrayManipulation.js. The variables are mapped into an object nested into an array using _map( )_.
+
+### Task 4
+
+4. The **README file** contains a brief desciption of how each task's functionality was achieved. 
